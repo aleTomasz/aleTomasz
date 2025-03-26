@@ -2,7 +2,7 @@
 🔭 I’m currently working on Devloping FullStack projects, applications in ASP.NET Core, React<br>👯 I’m looking to collaborate on open-source projects related to process automation, e-commerce and workflow optimalization<br>🤝 I’m looking for help with backend optimalization for large-scale applications<br>🌱 I’m currently learning advanced design patterns in C#, microservices architecture, DevOps and AI in web applications<br>💬 About me; FullStack development, ASP.NET Core, React, e-commerce systems, code optimalization and process automation<br>⚡ Fun fact; when I'm not coding i play the bass guitar, edit videos, experiment with AI in creativity and explore rituals in sales 🚀🎸 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tomaszwiatr) 
 
 # 💻 Tech Stack:
